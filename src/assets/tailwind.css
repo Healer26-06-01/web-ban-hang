@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-modal-content {
+    padding: 0 !important;
+}
+
+
+
+.swiper-pagination-bullet-active {
+    background: #ff6f61 !important;
+}
